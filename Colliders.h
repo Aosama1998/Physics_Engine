@@ -70,7 +70,7 @@ struct PlaneCollider
 		return {}; // No plane v plane
 	}
 };
-
+ 
 struct SphereCollider
 	: Collider
 {

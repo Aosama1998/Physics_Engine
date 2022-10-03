@@ -36,3 +36,5 @@ lapack/reference
 .settings
 Makefile
 !ci/build.gitlab-ci.yml
+*.vscode
+*eigen-3.4.0
