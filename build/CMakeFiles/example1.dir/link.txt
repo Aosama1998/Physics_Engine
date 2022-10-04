@@ -1,0 +1,1 @@
+/usr/bin/g++-10 -g -rdynamic CMakeFiles/example1.dir/examples/example1.cpp.o -o example1  libphysics_engine.a 

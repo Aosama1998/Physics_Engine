@@ -1,0 +1,2 @@
+/usr/bin/ar qc libphysics_engine.a CMakeFiles/physics_engine.dir/src/physics_engine.cpp.o
+/usr/bin/ranlib libphysics_engine.a

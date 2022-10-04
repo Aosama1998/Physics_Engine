@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/salahsoliman/Physics_Engine/build",
+  "command": "/usr/bin/g++-10  -I/home/salahsoliman/Physics_Engine/include -isystem /usr/include/eigen3 -g -o CMakeFiles/physics_engine.dir/src/physics_engine.cpp.o -c /home/salahsoliman/Physics_Engine/src/physics_engine.cpp",
+  "file": "/home/salahsoliman/Physics_Engine/src/physics_engine.cpp"
+},
+{
+  "directory": "/home/salahsoliman/Physics_Engine/build",
+  "command": "/usr/bin/g++-10  -I/home/salahsoliman/Physics_Engine/include -isystem /usr/include/eigen3 -g -o CMakeFiles/example1.dir/examples/example1.cpp.o -c /home/salahsoliman/Physics_Engine/examples/example1.cpp",
+  "file": "/home/salahsoliman/Physics_Engine/examples/example1.cpp"
+}
+]
